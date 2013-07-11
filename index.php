@@ -13,5 +13,6 @@
 	</pre>
 	<!-- game support -->
 	<script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+	<script src="/js/index.js"></script>
 </body>
 </html>
