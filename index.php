@@ -8,7 +8,7 @@
 </head>
 <body>
 	<!-- game ui -->
-	<pre>
+	<pre id="game">
 		<div id="flowers">you have <span id="flowerCount">0</span> flowers.</div>
 	</pre>
 	<!-- game support -->
