@@ -9,7 +9,7 @@
 <body>
 	<!-- game ui -->
 	<pre>
-		<div>hello world</div>
+		<div id="flowers">you have <span id="flowerCount">0</span> flowers.</div>
 	</pre>
 	<!-- game support -->
 	<script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
