@@ -36,6 +36,10 @@ $(function() {
 		if (flowerCount < 12) {
 			$prepareFlowersButton.prop('disabled', true);
 		}
+	$.extend({
+		money: function() {
+			return '$' + arguments[0].toFixed(2);
+		}
 	});
 
 });
